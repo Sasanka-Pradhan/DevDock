@@ -1,0 +1,11 @@
+open the folder in cmd and run the following command
+cd frontend
+npm i
+then after installation
+npm run dev
+
+then open new cmd terminal in same folder
+cd backend
+npm i
+then after installing all the dependencies
+npm start
